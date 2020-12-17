@@ -32,7 +32,7 @@ alias c.='(code $PWD &>/dev/null &)'
 alias o.='open .'
 alias phpstorm='open -a "PhpStorm" .'
 
-# Larevel
+# Laravel
 alias art="php artisan"
 alias mf="php artisan migrate:fresh"
 alias mfs="php artisan migrate:fresh --seed"
